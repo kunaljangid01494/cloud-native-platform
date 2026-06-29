@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# IDE
+.vscode/
+
+# Logs
+*.log
